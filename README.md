@@ -93,37 +93,3 @@ timeline
         Q2 : JavaScript dasar<br>Electronics & Arduino
         Q3 : Project pertama<br>Python untuk IoT
         Q4 : Mempelajari framework<br>Web Development lanjutan
-<!-- CONTACT SECTION WITH ANIMATED BUTTONS -->
-📫 Let's Connect!
-<div align="center">
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email&labelColor=black
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=black
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram&labelColor=black
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Twitter&labelColor=black
-https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=black
-
-</div><!-- ACTIVITY GRAPH -->
-⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-🎉 Created repository ChandraBrian/smart-home-system
-
-🔨 Started working on Python IoT tutorials
-
-📚 Learning about API integration
-
-🛠️ Experimenting with Arduino projects
-
-<!--END_SECTION:activity--><!-- QUOTE SECTION -->
-💡 Quotes of the Day
-"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
-
-"Your limitation—it's only your imagination." - Unknown
-
-<div align="center">
-https://github.com/ChandraBrian/ChandraBrian/blob/output/github-contribution-grid-snake.svg
-
-⭐️ From ChandraBrian with 💻 and ❤️
-
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling
-
-</div> ```
